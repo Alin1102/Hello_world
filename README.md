@@ -1,4 +1,7 @@
-# Hello_world
-A new Beginning
+#include <iostream>
+using namespace std;
 
-Hi, I`m Alin coming from China.
+int main() {
+  cout << "Hello World!" << endl;
+  return 0;
+ }
